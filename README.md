@@ -35,7 +35,7 @@ Generated CelebA samples:
 <br>
 ![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/faces.gif)
 
-Spherical Interpolation for faces
+Spherical Interpolation for generated faces
 <br>
 ![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/CelebA%20interpolation.png)
 ![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/right%20to%20left.gif)
