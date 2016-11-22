@@ -7,10 +7,12 @@ Original DCGAN paper: https://arxiv.org/pdf/1511.06434v2.pdf
 
 More about Generative Design: https://redshift.autodesk.com/what-is-generative-design-2/
 
-MNIST data source:http://yann.lecun.com/exdb/mnist/
+### Datasources
+MNIST: http://yann.lecun.com/exdb/mnist/
 <br>
-CelebA data source:http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+CelebA: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
+### MNIST
 Original MNIST samples:
 <br>
 ![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/mnist_original.png)
@@ -22,7 +24,9 @@ Generated MNIST samles:
 Linear Interpolation from 2 to 8
 <br>
 ![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/2%20to%208.png)
+<br>
 
+### CelebA
 Original CelebA samples:
 <br>
 ![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/faces_original.png)
