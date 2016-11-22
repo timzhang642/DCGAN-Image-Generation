@@ -13,16 +13,26 @@ CelebA data source:http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 Original MNIST samples:
 <br>
-![alt tag](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/mnist_original.png)
+![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/mnist_original.png)
 
-Generated samles:
+Generated MNIST samles:
 <br>
-![alt tag](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/mnist.gif)
+![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/mnist.gif)
+
+Linear Interpolation from 2 to 8
+<br>
+![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/2%20to%208.png)
 
 Original CelebA samples:
 <br>
-![alt tag](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/faces_original.png)
+![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/faces_original.png)
 
 Generated CelebA samples:
 <br>
-![alt tag](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/faces.gif)
+![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/faces.gif)
+
+Spherical Interpolation for faces
+<br>
+![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/CelebA%20interpolation.png)
+![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/right%20to%20left.gif)
+![](https://github.com/timzhang642/DCGAN-Image-Generation/blob/master/woman%20to%20man.gif)
